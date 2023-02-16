@@ -4,10 +4,10 @@
   "description": "",
   "scripts": {
     "commit": "cz",
-    "release": "bumpp package.json && pnpm publish -r"
+    "release": "auto shipit --base-branch=master"
   },
   "devDependencies": {
-    "bumpp": "^8.2.1",
+    "auto": "^10.42.0",
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
     "lint-staged": "^13.1.2",
