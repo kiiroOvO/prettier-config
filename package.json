@@ -1,0 +1,37 @@
+{
+  "name": "@ch1ll/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "commit": "cz",
+    "release": "bumpp package.json && pnpm publish -r"
+  },
+  "devDependencies": {
+    "bumpp": "^8.2.1",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "lint-staged": "^13.1.2",
+    "prettier": "^2.8.4",
+    "prettier-plugin-packagejson": "^2.4.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "prettier.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "lint-staged": {
+    "*.{js,css,html}": [
+      "git add "
+    ]
+  }
+}
