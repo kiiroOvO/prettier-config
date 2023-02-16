@@ -1,6 +1,6 @@
 {
   "name": "@ch1ll/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "commit": "cz",
@@ -22,8 +22,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://"
+    "url": "https://github.com/sunman7/prettier-config"
   },
+  "homepage": "https://github.com/sunman7/prettier-config",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
