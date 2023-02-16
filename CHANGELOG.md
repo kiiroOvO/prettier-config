@@ -1,3 +1,15 @@
+# v1.0.3 (Thu Feb 16 2023)
+
+#### ⚠️ Pushed to `master`
+
+- feat: about json (liamhuangzzz@gmail.com)
+
+#### Authors: 1
+
+- chillboi (liamhuangzzz@gmail.com)
+
+---
+
 # v1.0.2 (Thu Feb 16 2023)
 
 #### ⚠️ Pushed to `master`
