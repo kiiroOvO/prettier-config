@@ -9,5 +9,4 @@ module.exports = {
     jsxBracketSameLIne: false,
     arrowParens: 'avoid',
     endOfLine: 'lf',
-    plugin: [require.resolve('prettier-plugin-packagejson')],
 }
