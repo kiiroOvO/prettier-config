@@ -1,6 +1,6 @@
 {
   "name": "@ch1ll/prettier-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "scripts": {
     "commit": "cz",
