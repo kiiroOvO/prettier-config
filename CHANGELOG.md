@@ -1,3 +1,15 @@
+# v1.0.5 (Thu Feb 16 2023)
+
+#### ⚠️ Pushed to `master`
+
+- fix: singlequote and remove jsxBracketSameLine (liamhuangzzz@gmail.com)
+
+#### Authors: 1
+
+- chillboi (liamhuangzzz@gmail.com)
+
+---
+
 # v1.0.4 (Thu Feb 16 2023)
 
 #### ⚠️ Pushed to `master`
